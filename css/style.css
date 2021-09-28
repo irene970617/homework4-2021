@@ -55,7 +55,7 @@ p{
 Choose the color that passes the Wave color contrast checker.*/
 a{
   font-size: 16px;
-  color: #C12258;
+  color: #B21F50;
   text-decoration-style: wavy;
 }
 /*Every focused element should have a 3px dashed border (Use the universal selector).  Use #417243 for the color of the border.*/
